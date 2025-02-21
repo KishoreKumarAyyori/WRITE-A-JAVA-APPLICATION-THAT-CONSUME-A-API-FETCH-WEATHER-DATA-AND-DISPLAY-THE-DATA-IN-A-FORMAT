@@ -39,3 +39,4 @@ THE PROGRAM UTILIZES THE GSON LIBRARY TO PARSE THE JSON RESPONSE FROM THE OPENWE
 
 
 "OUTPUT":
+![Image](https://github.com/user-attachments/assets/574f0c01-4418-438e-bafc-a31b278f0394)
